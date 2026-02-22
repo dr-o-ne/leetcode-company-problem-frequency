@@ -1,3 +1,5 @@
+An interactive version of this data is available here https://github.com/dr-o-ne/leet-compass
+
 - [1Kosmos](companies/1kosmos.md)
 - [6sense](companies/6sense.md)
 - [Accelya](companies/accelya.md)
